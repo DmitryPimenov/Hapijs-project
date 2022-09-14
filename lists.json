@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "name": "Mango",
+  "type": "Fruit"
+},
+{
+  "id": 2,
+  "name": "Watermelon",
+  "type": "Berry"
+},
+{
+  "id": 3,
+  "name": "Tomato",
+  "type": "Vegatable"
+}]
